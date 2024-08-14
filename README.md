@@ -8,9 +8,9 @@ An implementation of the Kanagawa theme for Rstudio.
 
 Download the `kanagawa.rstheme` file from the repository and save it into a folder of your choice.
 
-Then, within RStudio, open the setting page, go to the appearance tab and in the themes pael choose add.
+Then, within RStudio, open the settings page, go to the appearance tab and choose the "Add..." option located below the "Editor theme:" box.
 
-Go to the folder you selected and load the `kanagawa.rstheme` file.
+Go to the folder you chose before and select the `kanagawa.rstheme` file.
 
 ## Features
 
