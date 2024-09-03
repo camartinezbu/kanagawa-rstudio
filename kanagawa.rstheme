@@ -26,7 +26,7 @@
 }
 .normal-mode .ace_cursor {
   border: 0 !important;
-  background-color: #c8c093;
+  background-color: #c8c09370;
 }
 .ace_marker-layer .ace_selection {
   background: #223249
